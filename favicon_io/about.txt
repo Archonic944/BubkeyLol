@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Sarabun
+- Font Author: Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun)
+- Font Source: http://fonts.gstatic.com/s/sarabun/v13/DtVjJx26TKEr37c9WBJDnlQN9gk.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

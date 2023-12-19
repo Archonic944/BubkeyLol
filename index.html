@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>bubkey.lol</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicon_io/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon_io/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon_io/favicon-16x16.png">
+  <link rel="manifest" href="/favicon_io/site.webmanifest">
+</head>
+
+<body>
+  <p id="header">bubkey.lol*</p>
+  <span id="subheader"><i>*Note: Now migrated to a less cool URL</i></span>
+  <br>
+  <div id="text-container">
+  <p style="margin-top:13px;margin-left:15px;margin-right:15px;">Tired of ordinary, boring swear words? Spice it up with one from our swanky generator! C'mon, all it takes is a click!!</p> 
+  </div>
+   <div id="spacer-half"></div>
+  Enter swear length: <input id="wordamount" type="number" value="2"></input>
+  <div id="spacer-half">
+  <script src="script.js" defer></script>
+  </div><button id="gobutton" onclick="generate(true)">Let's go!</button>
+  <br>
+  <div style="margin-top:15px;"></div>
+  <span id="warn" hidden="true" style="color:gray">Please enter a swear length.</span>
+  <div id="swear-container" hidden="true">
+  </div>
+</body>
+
+</html>
